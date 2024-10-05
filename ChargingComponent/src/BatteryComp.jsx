@@ -18,6 +18,8 @@ function BatteryComp() {
           return prevBattery + 1;
         });
       }, 1000);
+      return () => clearInterval(interval);
+
   
   }, []);
 

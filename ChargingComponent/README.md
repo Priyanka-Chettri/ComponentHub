@@ -2,5 +2,4 @@ CHARGING COMPONENT
 
 This component basically shows the charge when the device is in charging mode.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Snapshot of the component](./assets/Snapshot.png)
